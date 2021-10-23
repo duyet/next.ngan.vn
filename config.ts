@@ -1,8 +1,8 @@
 export const menu = [
   { name: 'Trang chủ', href: '/' },
-  { name: 'Gallery', href: '/photos' },
-  { name: 'Blog', href: '/posts' },
-  { name: 'Giới thiệu', href: '/about' }
+  // { name: 'Gallery', href: '/photos' },
+  // { name: 'Blog', href: '/posts' },
+  // { name: 'Giới thiệu', href: '/about' }
 ]
 
 export const config = {
