@@ -14,7 +14,7 @@ export const config = {
   menu,
   landing: {
     h1: '',
-    h2: 'Xin chào, mình là Ngân'
+    h2: 'Xin chào<br /> mình là Ngân'
   }
 }
 

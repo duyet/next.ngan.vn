@@ -9,9 +9,10 @@ export const Intro: React.FC = () => (
         <h1 className="relative mb-4 text-3xl font-black leading-tight text-white sm:text-6xl xl:mb-8">
           {config.landing.h1}
         </h1>
-        <p className="pr-0 mb-16 text-2xl xl:text-2xl text-white font-thin font-light text-intro-h2">
-          {config.landing.h2}
-        </p>
+        <p
+          className="pr-0 mb-16 text-2xl xl:text-2xl text-white font-thin font-light text-intro-h2 text-center"
+          dangerouslySetInnerHTML={{ __html: config.landing.h2 }}
+         />
       </div>
     </div>
   </div>
