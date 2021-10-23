@@ -1,10 +1,10 @@
 # Ngan.vn 
 
-This portfolio is built with **Next.js**. 
+This portfolio is built with **Next.js** and **Tailwind**. 
 
-https://next.ngan.vn
+[https://next.ngan.vn](https://next.ngan.vn)
 
-## Develope 
+## Develop
 
 
 ```bash
