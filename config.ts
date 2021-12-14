@@ -1,5 +1,6 @@
 export const menu = [
   { name: 'Trang chủ', href: '/' },
+  { name: 'Verynini', href: 'https://verynini.com' },
   // { name: 'Gallery', href: '/photos' },
   // { name: 'Blog', href: '/posts' },
   // { name: 'Giới thiệu', href: '/about' }
